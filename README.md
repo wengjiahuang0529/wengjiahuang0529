@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jia-Huang</h1>
 <h3 align="center">A master's student in the Institute of Communication at National Tsing Hua University.</h3>
 
+- 📫 How to reach me **wengjiahuang@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/%e4%bd%b3%e7%85%8c-%e7%bf%81-796b7427a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e4%bd%b3%e7%85%8c-%e7%bf%81-796b7427a/" height="30" width="40" /></a>
 <a href="https://instagram.com/wengjiahuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wengjiahuang" height="30" width="40" /></a>
 <a href="https://medium.com/@wengjiahuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wengjiahuang" height="30" width="40" /></a>
 </p>
