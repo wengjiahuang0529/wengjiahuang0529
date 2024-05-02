@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%e4%bd%b3%e7%85%8c-%e7%bf%81-796b7427a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e4%bd%b3%e7%85%8c-%e7%bf%81-796b7427a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%E4%BD%B3%E7%85%8C-%E7%BF%81-796b7427a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e4%bd%b3%e7%85%8c-%e7%bf%81-796b7427a/" height="30" width="40" /></a>
 <a href="https://instagram.com/wengjiahuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wengjiahuang" height="30" width="40" /></a>
 <a href="https://medium.com/@wengjiahuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wengjiahuang" height="30" width="40" /></a>
 </p>
